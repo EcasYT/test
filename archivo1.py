@@ -1,4 +1,4 @@
-import requests
-
-s = requests.get("http://google.com")
-print(s.json)
+print("chcnco feliz")
+print("chcnco feliz")
+print("chcnco feliz")
+print("chcnco feliz")
